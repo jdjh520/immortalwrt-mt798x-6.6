@@ -2155,7 +2155,7 @@ TARGET_DEVICES += xiaomi_mi-router-wr30u-stock
 
 define Device/xiaomi_mi-router-wr30u-mtkuboot
   DEVICE_VENDOR := Xiaomi
-  DEVICE_MODEL := Mi Router WR30U	
+  DEVICE_MODEL := Mi Router WR30U
   DEVICE_VARIANT := (MTK U-Boot layout)
   DEVICE_DTS := mt7981b-xiaomi-mi-router-wr30u-mtkuboot
   DEVICE_DTS_DIR := ../dts
