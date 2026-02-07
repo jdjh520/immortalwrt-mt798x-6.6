@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later OR MIT
 
 /dts-v1/;
-#include "../dts/mt7981b-xiaomi-mi-router-wr30u.dtsi"
+#include "mt7981b-xiaomi-mi-router-wr30u.dtsi"
 
 / {
 	model = "Xiaomi Mi Router WR30U (MTK U-Boot layout)";
